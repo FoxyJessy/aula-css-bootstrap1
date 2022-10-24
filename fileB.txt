@@ -1,1 +1,1 @@
-FileB - changed
+FileB - changed v2
